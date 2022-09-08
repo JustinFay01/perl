@@ -15,5 +15,7 @@ if($r < 0){
 else{
     $cir = (2*pi * $r);
     print("The radius is, $cir.");
+    print("this is a test");
 }
+
 
